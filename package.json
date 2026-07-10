@@ -2,7 +2,7 @@
   "name": "www-desktop-sync",
   "version": "0.0.1",
   "description": "www to standalone desktop-app storage up to date",
-  "main": "example.js",
+  "main": "postgresql-example.js",
   "scripts": {
     "start": "node postgresql-example.js"
   },
