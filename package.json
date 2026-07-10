@@ -1,0 +1,16 @@
+{
+  "name": "www-desktop-sync",
+  "version": "0.0.1",
+  "description": "www to standalone desktop-app storage up to date",
+  "main": "example.js",
+  "scripts": {
+    "start": "node postgresql-example.js"
+  },
+  "dependencies": {
+    "ably": "^1.2.29",
+    "dotenv": "^17.3.1",
+    "mysql2": "^3.6.5",
+    "pg": "^8.20.0",
+    "ws": "^8.13.0"
+  }
+}
